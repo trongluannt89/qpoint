@@ -24,7 +24,8 @@ namespace qpoint
         public MainPage()
         {
             InitializeComponent();
-            GetJsonData();            
+            GetJsonData();
+            //Test pull 02.07
         }
 
         protected async override void OnAppearing()
