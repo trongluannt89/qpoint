@@ -25,7 +25,7 @@ namespace qpoint
         {
             InitializeComponent();
             GetJsonData();
-            //Test pull 02.07
+            //Test pull 02.07 123
         }
 
         protected async override void OnAppearing()
